@@ -1,0 +1,33 @@
+\begin{tabular}{ | c | c | c | c | }
+\hline	 & Total & T1 & T2 \\ \hline 
+Test 1& 27.0 s& 27.0 s& 21.1 s\\ \hline 
+Test 2& 26.6 s& 26.6 s& 20.4 s\\ \hline 
+Test 3& 27.0 s& 27.0 s& 20.6 s\\ \hline 
+Test 4& 27.0 s& 27.0 s& 20.7 s\\ \hline 
+Test 5& 27.0 s& 27.0 s& 20.7 s\\ \hline 
+Test 6& 27.3 s& 27.3 s& 21.0 s\\ \hline 
+Test 7& 27.1 s& 27.1 s& 20.9 s\\ \hline 
+Test 8& 27.1 s& 27.1 s& 20.9 s\\ \hline 
+Test 9& 27.1 s& 27.1 s& 20.9 s\\ \hline 
+Test 10& 27.1 s& 27.1 s& 20.8 s\\ \hline 
+Test 11& 26.9 s& 26.9 s& 20.8 s\\ \hline 
+Test 12& 26.6 s& 26.6 s& 20.3 s\\ \hline 
+Test 13& 26.2 s& 26.2 s& 20.2 s\\ \hline 
+Test 14& 26.2 s& 26.2 s& 20.3 s\\ \hline 
+Test 15& 26.1 s& 26.1 s& 20.0 s\\ \hline 
+Test 16& 26.8 s& 26.8 s& 20.5 s\\ \hline 
+Test 17& 26.1 s& 26.1 s& 20.0 s\\ \hline 
+Test 18& 26.0 s& 26.0 s& 20.3 s\\ \hline 
+Test 19& 26.1 s& 26.1 s& 20.2 s\\ \hline 
+Test 20& 26.2 s& 26.2 s& 20.2 s\\ \hline 
+Test 21& 31.9 s& 31.9 s& 25.5 s\\ \hline 
+Test 22& 26.2 s& 26.2 s& 20.3 s\\ \hline 
+Test 23& 26.4 s& 26.4 s& 20.2 s\\ \hline 
+Test 24& 26.2 s& 26.2 s& 20.1 s\\ \hline 
+Test 25& 26.1 s& 26.1 s& 20.0 s\\ \hline 
+Test 26& 26.3 s& 26.3 s& 20.3 s\\ \hline 
+Test 27& 26.2 s& 26.2 s& 20.1 s\\ \hline 
+Test 28& 26.3 s& 26.3 s& 19.9 s\\ \hline 
+Test 29& 26.1 s& 26.1 s& 20.3 s\\ \hline 
+Test 30& 26.3 s& 26.3 s& 20.3 s\\ \hline 
+\end{tabular}

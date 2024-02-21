@@ -1,0 +1,3462 @@
+{
+    "1": [
+        {
+            "time": 46174,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "46173"
+                }
+            ]
+        },
+        {
+            "time": 46483,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "46483"
+                }
+            ]
+        },
+        {
+            "time": 46131,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "46131"
+                }
+            ]
+        },
+        {
+            "time": 46787,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "46787"
+                }
+            ]
+        },
+        {
+            "time": 47116,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "47116"
+                }
+            ]
+        },
+        {
+            "time": 47181,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "47181"
+                }
+            ]
+        },
+        {
+            "time": 46868,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "46868"
+                }
+            ]
+        },
+        {
+            "time": 46530,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "46530"
+                }
+            ]
+        },
+        {
+            "time": 46837,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "46837"
+                }
+            ]
+        },
+        {
+            "time": 46787,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "46787"
+                }
+            ]
+        },
+        {
+            "time": 46725,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "46725"
+                }
+            ]
+        },
+        {
+            "time": 46862,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "46861"
+                }
+            ]
+        },
+        {
+            "time": 45896,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "45896"
+                }
+            ]
+        },
+        {
+            "time": 45786,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "45786"
+                }
+            ]
+        },
+        {
+            "time": 45777,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "45777"
+                }
+            ]
+        },
+        {
+            "time": 45747,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "45747"
+                }
+            ]
+        },
+        {
+            "time": 45714,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "45714"
+                }
+            ]
+        },
+        {
+            "time": 45729,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "45728"
+                }
+            ]
+        },
+        {
+            "time": 45727,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "45727"
+                }
+            ]
+        },
+        {
+            "time": 45811,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "45811"
+                }
+            ]
+        },
+        {
+            "time": 46270,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "46270"
+                }
+            ]
+        },
+        {
+            "time": 45760,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "45760"
+                }
+            ]
+        },
+        {
+            "time": 45865,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "45865"
+                }
+            ]
+        },
+        {
+            "time": 45694,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "45694"
+                }
+            ]
+        },
+        {
+            "time": 45881,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "45881"
+                }
+            ]
+        },
+        {
+            "time": 45844,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "45844"
+                }
+            ]
+        },
+        {
+            "time": 45160,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "45160"
+                }
+            ]
+        },
+        {
+            "time": 45367,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "45367"
+                }
+            ]
+        },
+        {
+            "time": 45248,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "45248"
+                }
+            ]
+        },
+        {
+            "time": 45687,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "60",
+                    "time": "45687"
+                }
+            ]
+        }
+    ],
+    "2": [
+        {
+            "time": 27016,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "27016"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "21072"
+                }
+            ]
+        },
+        {
+            "time": 26587,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "26587"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "20367"
+                }
+            ]
+        },
+        {
+            "time": 27002,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "27002"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "20629"
+                }
+            ]
+        },
+        {
+            "time": 26981,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "26981"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "20711"
+                }
+            ]
+        },
+        {
+            "time": 26962,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "26962"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "20677"
+                }
+            ]
+        },
+        {
+            "time": 27349,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "27349"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "21030"
+                }
+            ]
+        },
+        {
+            "time": 27097,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "27097"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "20926"
+                }
+            ]
+        },
+        {
+            "time": 27128,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "27128"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "20919"
+                }
+            ]
+        },
+        {
+            "time": 27120,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "27120"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "20881"
+                }
+            ]
+        },
+        {
+            "time": 27054,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "27054"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "20811"
+                }
+            ]
+        },
+        {
+            "time": 26931,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "26931"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "20773"
+                }
+            ]
+        },
+        {
+            "time": 26610,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "26610"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "20348"
+                }
+            ]
+        },
+        {
+            "time": 26214,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "26214"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "20166"
+                }
+            ]
+        },
+        {
+            "time": 26181,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "26180"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "20346"
+                }
+            ]
+        },
+        {
+            "time": 26147,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "26146"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "20028"
+                }
+            ]
+        },
+        {
+            "time": 26787,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "26787"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "20461"
+                }
+            ]
+        },
+        {
+            "time": 26083,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "26083"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "20020"
+                }
+            ]
+        },
+        {
+            "time": 26001,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "26001"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "20282"
+                }
+            ]
+        },
+        {
+            "time": 26143,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "26143"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "20168"
+                }
+            ]
+        },
+        {
+            "time": 26178,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "26178"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "20195"
+                }
+            ]
+        },
+        {
+            "time": 31931,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "31931"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "25511"
+                }
+            ]
+        },
+        {
+            "time": 26183,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "26183"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "20327"
+                }
+            ]
+        },
+        {
+            "time": 26390,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "26390"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "20224"
+                }
+            ]
+        },
+        {
+            "time": 26157,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "26157"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "20054"
+                }
+            ]
+        },
+        {
+            "time": 26054,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "26054"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "20028"
+                }
+            ]
+        },
+        {
+            "time": 26323,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "26323"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "20282"
+                }
+            ]
+        },
+        {
+            "time": 26200,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "26200"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "20053"
+                }
+            ]
+        },
+        {
+            "time": 26253,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "26253"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "19950"
+                }
+            ]
+        },
+        {
+            "time": 26120,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "26120"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "20291"
+                }
+            ]
+        },
+        {
+            "time": 26259,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "34",
+                    "time": "26259"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "26",
+                    "time": "20312"
+                }
+            ]
+        }
+    ],
+    "3": [
+        {
+            "time": 20165,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "20165"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "13439"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "17699"
+                }
+            ]
+        },
+        {
+            "time": 19898,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "19898"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "12555"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "17752"
+                }
+            ]
+        },
+        {
+            "time": 20254,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "20254"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "13041"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "17832"
+                }
+            ]
+        },
+        {
+            "time": 20084,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "20084"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "12664"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "17650"
+                }
+            ]
+        },
+        {
+            "time": 19880,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "19880"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "12688"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "17382"
+                }
+            ]
+        },
+        {
+            "time": 20041,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "20041"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "12722"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "17573"
+                }
+            ]
+        },
+        {
+            "time": 20059,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "20059"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "12803"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "17356"
+                }
+            ]
+        },
+        {
+            "time": 20066,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "20066"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "12711"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "17469"
+                }
+            ]
+        },
+        {
+            "time": 19958,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "19958"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "12855"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "17441"
+                }
+            ]
+        },
+        {
+            "time": 20048,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "20048"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "12799"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "17565"
+                }
+            ]
+        },
+        {
+            "time": 19906,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "19906"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "12876"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "17479"
+                }
+            ]
+        },
+        {
+            "time": 18963,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "18963"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "12094"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "16830"
+                }
+            ]
+        },
+        {
+            "time": 19170,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "19170"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "11977"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "16590"
+                }
+            ]
+        },
+        {
+            "time": 19498,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "19498"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "12738"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "16864"
+                }
+            ]
+        },
+        {
+            "time": 19416,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "19416"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "12283"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "16756"
+                }
+            ]
+        },
+        {
+            "time": 19622,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "19622"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "12769"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "17216"
+                }
+            ]
+        },
+        {
+            "time": 19304,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "19304"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "12259"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "16731"
+                }
+            ]
+        },
+        {
+            "time": 19488,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "19488"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "12571"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "16926"
+                }
+            ]
+        },
+        {
+            "time": 19248,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "19248"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "12088"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "16489"
+                }
+            ]
+        },
+        {
+            "time": 19057,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "19057"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "12447"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "16817"
+                }
+            ]
+        },
+        {
+            "time": 20546,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "20546"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "13720"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "18015"
+                }
+            ]
+        },
+        {
+            "time": 19660,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "19660"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "12646"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "17638"
+                }
+            ]
+        },
+        {
+            "time": 19384,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "19384"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "12241"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "16581"
+                }
+            ]
+        },
+        {
+            "time": 19493,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "19493"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "12506"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "17023"
+                }
+            ]
+        },
+        {
+            "time": 19440,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "19440"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "12468"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "16786"
+                }
+            ]
+        },
+        {
+            "time": 19518,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "19518"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "12939"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "17189"
+                }
+            ]
+        },
+        {
+            "time": 19040,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "19040"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "12096"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "16736"
+                }
+            ]
+        },
+        {
+            "time": 19725,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "19724"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "12627"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "17472"
+                }
+            ]
+        },
+        {
+            "time": 19449,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "19449"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "12139"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "17073"
+                }
+            ]
+        },
+        {
+            "time": 19817,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "24",
+                    "time": "19817"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "15",
+                    "time": "13080"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "21",
+                    "time": "17013"
+                }
+            ]
+        }
+    ],
+    "4": [
+        {
+            "time": 15964,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "14050"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "15830"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "7376"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "15964"
+                }
+            ]
+        },
+        {
+            "time": 15772,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "13971"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "15627"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "7282"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "15772"
+                }
+            ]
+        },
+        {
+            "time": 16017,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "13969"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "15701"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "7195"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "16017"
+                }
+            ]
+        },
+        {
+            "time": 15432,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "13627"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "15432"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "7009"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "15356"
+                }
+            ]
+        },
+        {
+            "time": 15594,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "13888"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "15410"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "7116"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "15594"
+                }
+            ]
+        },
+        {
+            "time": 15542,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "13814"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "15542"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "7188"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "15510"
+                }
+            ]
+        },
+        {
+            "time": 15615,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "13833"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "15475"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "7145"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "15615"
+                }
+            ]
+        },
+        {
+            "time": 15746,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "13868"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "15746"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "7121"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "15668"
+                }
+            ]
+        },
+        {
+            "time": 15619,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "13685"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "15351"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "7097"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "15619"
+                }
+            ]
+        },
+        {
+            "time": 15598,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "14039"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "15480"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "7242"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "15598"
+                }
+            ]
+        },
+        {
+            "time": 15623,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "13816"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "15312"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "7115"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "15622"
+                }
+            ]
+        },
+        {
+            "time": 14765,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "13139"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "14658"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "6611"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "14765"
+                }
+            ]
+        },
+        {
+            "time": 14807,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "13262"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "14807"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "6845"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "14800"
+                }
+            ]
+        },
+        {
+            "time": 14753,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "13124"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "14753"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "6701"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "14721"
+                }
+            ]
+        },
+        {
+            "time": 14806,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "13363"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "14581"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "7053"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "14806"
+                }
+            ]
+        },
+        {
+            "time": 14622,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "13219"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "14622"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "6951"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "14482"
+                }
+            ]
+        },
+        {
+            "time": 14584,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "12945"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "14584"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "6646"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "14536"
+                }
+            ]
+        },
+        {
+            "time": 15032,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "13197"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "14950"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "7102"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "15032"
+                }
+            ]
+        },
+        {
+            "time": 14982,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "13356"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "14956"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "7003"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "14982"
+                }
+            ]
+        },
+        {
+            "time": 14562,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "13145"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "14562"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "6873"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "14422"
+                }
+            ]
+        },
+        {
+            "time": 14502,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "12955"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "14323"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "6546"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "14502"
+                }
+            ]
+        },
+        {
+            "time": 15136,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "13472"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "14781"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "6691"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "15136"
+                }
+            ]
+        },
+        {
+            "time": 14876,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "13184"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "14803"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "6643"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "14876"
+                }
+            ]
+        },
+        {
+            "time": 14550,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "12909"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "14550"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "6514"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "14498"
+                }
+            ]
+        },
+        {
+            "time": 14853,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "13202"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "14690"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "7042"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "14853"
+                }
+            ]
+        },
+        {
+            "time": 14827,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "13126"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "14509"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "6875"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "14827"
+                }
+            ]
+        },
+        {
+            "time": 14881,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "13442"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "14642"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "6525"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "14881"
+                }
+            ]
+        },
+        {
+            "time": 14769,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "13142"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "14712"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "6752"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "14769"
+                }
+            ]
+        },
+        {
+            "time": 14800,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "13306"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "14621"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "6539"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "14800"
+                }
+            ]
+        },
+        {
+            "time": 14937,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "16",
+                    "time": "13441"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "18",
+                    "time": "14829"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "8",
+                    "time": "6916"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "18",
+                    "time": "14937"
+                }
+            ]
+        }
+    ],
+    "8": [
+        {
+            "time": 11664,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11664"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4799"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10859"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7571"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3681"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5752"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8311"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "10042"
+                }
+            ]
+        },
+        {
+            "time": 11813,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11813"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4530"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "11031"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7569"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3478"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5786"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8501"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "10268"
+                }
+            ]
+        },
+        {
+            "time": 11614,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11614"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4540"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "11058"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7330"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3431"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5626"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8470"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "10092"
+                }
+            ]
+        },
+        {
+            "time": 11640,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11640"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4487"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10927"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7418"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3424"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5853"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8372"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "10117"
+                }
+            ]
+        },
+        {
+            "time": 11611,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11610"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4617"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10925"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7535"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3449"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5761"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8549"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "10090"
+                }
+            ]
+        },
+        {
+            "time": 11808,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11808"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4632"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10936"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7667"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3572"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5990"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8540"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "10191"
+                }
+            ]
+        },
+        {
+            "time": 11791,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11791"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4833"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10932"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7649"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3475"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5707"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8495"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "10095"
+                }
+            ]
+        },
+        {
+            "time": 11623,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11622"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4697"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10875"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7591"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3523"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5833"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8711"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "10193"
+                }
+            ]
+        },
+        {
+            "time": 11596,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11595"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4729"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10843"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7419"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3544"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5703"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8440"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "10102"
+                }
+            ]
+        },
+        {
+            "time": 11748,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11748"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4614"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10974"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7678"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3663"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5715"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8739"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "10314"
+                }
+            ]
+        },
+        {
+            "time": 11876,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11876"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4721"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10992"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7360"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3448"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "6217"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8246"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "10179"
+                }
+            ]
+        },
+        {
+            "time": 11234,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11234"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4391"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10544"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7219"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3681"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5940"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8159"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "9805"
+                }
+            ]
+        },
+        {
+            "time": 11356,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11356"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4553"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10618"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7219"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3572"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5877"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8308"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "9813"
+                }
+            ]
+        },
+        {
+            "time": 11124,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11124"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4476"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10564"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7253"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3635"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5983"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8333"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "9833"
+                }
+            ]
+        },
+        {
+            "time": 11173,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11173"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4672"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10349"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7311"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3377"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5666"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8229"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "9816"
+                }
+            ]
+        },
+        {
+            "time": 11520,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11520"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4609"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10989"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7265"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3898"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5786"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8155"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "10223"
+                }
+            ]
+        },
+        {
+            "time": 11249,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11249"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4652"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10545"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7276"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3542"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5849"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8240"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "9808"
+                }
+            ]
+        },
+        {
+            "time": 11223,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11223"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4492"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10742"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7524"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3559"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "6018"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8112"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "9788"
+                }
+            ]
+        },
+        {
+            "time": 11576,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11576"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4641"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10721"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7637"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3549"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5650"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8599"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "9917"
+                }
+            ]
+        },
+        {
+            "time": 11299,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11298"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4813"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10629"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7528"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3788"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5672"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8152"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "9810"
+                }
+            ]
+        },
+        {
+            "time": 11099,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11099"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4541"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10299"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7377"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3422"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5795"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8273"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "9770"
+                }
+            ]
+        },
+        {
+            "time": 11172,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11172"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4638"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10593"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7438"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3513"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5687"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8098"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "9667"
+                }
+            ]
+        },
+        {
+            "time": 11236,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11236"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4575"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10567"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7526"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3561"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5915"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8449"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "9692"
+                }
+            ]
+        },
+        {
+            "time": 11586,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11586"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4584"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10424"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7270"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3687"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5755"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8288"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "9848"
+                }
+            ]
+        },
+        {
+            "time": 11348,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11348"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4673"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10691"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7457"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3559"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5862"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8592"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "9843"
+                }
+            ]
+        },
+        {
+            "time": 11282,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11282"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4780"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10479"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7221"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3558"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5852"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8353"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "9636"
+                }
+            ]
+        },
+        {
+            "time": 11162,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11162"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4874"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10685"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7495"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3664"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5810"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8277"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "9749"
+                }
+            ]
+        },
+        {
+            "time": 11098,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11098"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4523"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10439"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7466"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3595"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5957"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8393"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "9750"
+                }
+            ]
+        },
+        {
+            "time": 11386,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11386"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4585"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10931"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7538"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3574"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5990"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8091"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "9862"
+                }
+            ]
+        },
+        {
+            "time": 11100,
+            "threads": [
+                {
+                    "id": 1,
+                    "primesFound": "12",
+                    "time": "11099"
+                },
+                {
+                    "id": 2,
+                    "primesFound": "4",
+                    "time": "4539"
+                },
+                {
+                    "id": 3,
+                    "primesFound": "11",
+                    "time": "10553"
+                },
+                {
+                    "id": 4,
+                    "primesFound": "7",
+                    "time": "7375"
+                },
+                {
+                    "id": 5,
+                    "primesFound": "3",
+                    "time": "3462"
+                },
+                {
+                    "id": 6,
+                    "primesFound": "5",
+                    "time": "5681"
+                },
+                {
+                    "id": 7,
+                    "primesFound": "8",
+                    "time": "8236"
+                },
+                {
+                    "id": 8,
+                    "primesFound": "10",
+                    "time": "9829"
+                }
+            ]
+        }
+    ]
+}

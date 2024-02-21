@@ -1,0 +1,33 @@
+\begin{tabular}{ | c | c | c | }
+\hline	 & Total & T1 \\ \hline 
+Test 1& 46.2 s& 46.2 s\\ \hline 
+Test 2& 46.5 s& 46.5 s\\ \hline 
+Test 3& 46.1 s& 46.1 s\\ \hline 
+Test 4& 46.8 s& 46.8 s\\ \hline 
+Test 5& 47.1 s& 47.1 s\\ \hline 
+Test 6& 47.2 s& 47.2 s\\ \hline 
+Test 7& 46.9 s& 46.9 s\\ \hline 
+Test 8& 46.5 s& 46.5 s\\ \hline 
+Test 9& 46.8 s& 46.8 s\\ \hline 
+Test 10& 46.8 s& 46.8 s\\ \hline 
+Test 11& 46.7 s& 46.7 s\\ \hline 
+Test 12& 46.9 s& 46.9 s\\ \hline 
+Test 13& 45.9 s& 45.9 s\\ \hline 
+Test 14& 45.8 s& 45.8 s\\ \hline 
+Test 15& 45.8 s& 45.8 s\\ \hline 
+Test 16& 45.7 s& 45.7 s\\ \hline 
+Test 17& 45.7 s& 45.7 s\\ \hline 
+Test 18& 45.7 s& 45.7 s\\ \hline 
+Test 19& 45.7 s& 45.7 s\\ \hline 
+Test 20& 45.8 s& 45.8 s\\ \hline 
+Test 21& 46.3 s& 46.3 s\\ \hline 
+Test 22& 45.8 s& 45.8 s\\ \hline 
+Test 23& 45.9 s& 45.9 s\\ \hline 
+Test 24& 45.7 s& 45.7 s\\ \hline 
+Test 25& 45.9 s& 45.9 s\\ \hline 
+Test 26& 45.8 s& 45.8 s\\ \hline 
+Test 27& 45.2 s& 45.2 s\\ \hline 
+Test 28& 45.4 s& 45.4 s\\ \hline 
+Test 29& 45.2 s& 45.2 s\\ \hline 
+Test 30& 45.7 s& 45.7 s\\ \hline 
+\end{tabular}

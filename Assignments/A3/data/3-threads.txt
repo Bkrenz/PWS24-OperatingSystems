@@ -1,0 +1,33 @@
+\begin{tabular}{ | c | c | c | c | c | }
+\hline	 & Total & T1 & T2 & T3 \\ \hline 
+Test 1& 20.2 s& 20.2 s& 13.4 s& 17.7 s\\ \hline 
+Test 2& 19.9 s& 19.9 s& 12.6 s& 17.8 s\\ \hline 
+Test 3& 20.3 s& 20.3 s& 13.0 s& 17.8 s\\ \hline 
+Test 4& 20.1 s& 20.1 s& 12.7 s& 17.6 s\\ \hline 
+Test 5& 19.9 s& 19.9 s& 12.7 s& 17.4 s\\ \hline 
+Test 6& 20.0 s& 20.0 s& 12.7 s& 17.6 s\\ \hline 
+Test 7& 20.1 s& 20.1 s& 12.8 s& 17.4 s\\ \hline 
+Test 8& 20.1 s& 20.1 s& 12.7 s& 17.5 s\\ \hline 
+Test 9& 20.0 s& 20.0 s& 12.9 s& 17.4 s\\ \hline 
+Test 10& 20.0 s& 20.0 s& 12.8 s& 17.6 s\\ \hline 
+Test 11& 19.9 s& 19.9 s& 12.9 s& 17.5 s\\ \hline 
+Test 12& 19.0 s& 19.0 s& 12.1 s& 16.8 s\\ \hline 
+Test 13& 19.2 s& 19.2 s& 12.0 s& 16.6 s\\ \hline 
+Test 14& 19.5 s& 19.5 s& 12.7 s& 16.9 s\\ \hline 
+Test 15& 19.4 s& 19.4 s& 12.3 s& 16.8 s\\ \hline 
+Test 16& 19.6 s& 19.6 s& 12.8 s& 17.2 s\\ \hline 
+Test 17& 19.3 s& 19.3 s& 12.3 s& 16.7 s\\ \hline 
+Test 18& 19.5 s& 19.5 s& 12.6 s& 16.9 s\\ \hline 
+Test 19& 19.2 s& 19.2 s& 12.1 s& 16.5 s\\ \hline 
+Test 20& 19.1 s& 19.1 s& 12.4 s& 16.8 s\\ \hline 
+Test 21& 20.5 s& 20.5 s& 13.7 s& 18.0 s\\ \hline 
+Test 22& 19.7 s& 19.7 s& 12.6 s& 17.6 s\\ \hline 
+Test 23& 19.4 s& 19.4 s& 12.2 s& 16.6 s\\ \hline 
+Test 24& 19.5 s& 19.5 s& 12.5 s& 17.0 s\\ \hline 
+Test 25& 19.4 s& 19.4 s& 12.5 s& 16.8 s\\ \hline 
+Test 26& 19.5 s& 19.5 s& 12.9 s& 17.2 s\\ \hline 
+Test 27& 19.0 s& 19.0 s& 12.1 s& 16.7 s\\ \hline 
+Test 28& 19.7 s& 19.7 s& 12.6 s& 17.5 s\\ \hline 
+Test 29& 19.4 s& 19.4 s& 12.1 s& 17.1 s\\ \hline 
+Test 30& 19.8 s& 19.8 s& 13.1 s& 17.0 s\\ \hline 
+\end{tabular}

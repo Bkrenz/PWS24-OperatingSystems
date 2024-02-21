@@ -6,6 +6,7 @@
 
 #define MIN_NUM 1723453000
 #define MAX_NUM 1723454200
+#define NUM_TESTS 30
 
 struct thread_info {
     pthread_t thread_id;
@@ -13,49 +14,30 @@ struct thread_info {
     int startNum, endNum;
     int primesFound;
     int primes[(MAX_NUM - MIN_NUM)];
+    struct timeval startTime, endTime;
 };
 
 bool is_prime(int n);
 void * count_primes_in_range(void *prime_range);
-int run_threaded_primes(int num_threads);
+void run_threaded_primes(int num_threads, FILE* resultsFile);
 
 void main()
 {
     FILE *resultsfile;
     resultsfile = fopen("results.csv", "w");
-    fprintf("threads,time\n");
     int time;
-    for (int i = 0; i < 10; i++){
-        // Run test with 1 thread
-        printf("Running test %d with %d thread.\n", i+1, 1);
-        time = run_threaded_primes(1);
-        fprintf(resultsfile, "1,%d\n", time);
-
-        // run test with 2 threads
-        printf("Running test %d with %d threads.\n", i+1, 2);
-        time = run_threaded_primes(2);
-        fprintf(resultsfile, "2,%d\n", time);
-
-        // Run test with 3 threads
-        printf("Running test %d with %d threads.\n", i+1, 3);
-        time = run_threaded_primes(3);
-        fprintf(resultsfile, "3,%d\n", time);
-        
-        // Run test with 4 threads
-        printf("Running test %d with %d threads.\n", i+1, 4);
-        time = run_threaded_primes(4);
-        fprintf(resultsfile, "4,%d\n", time);
-
-        // Run test with 8 threads
-        printf("Running test %d with %d threads.\n", i+1, 8);
-        time = run_threaded_primes(8);
-        fprintf(resultsfile, "8,%d\n", time);
-
+    for (int i = 0; i < NUM_TESTS; i++){
+        run_threaded_primes(1, resultsfile);
+        run_threaded_primes(2, resultsfile);
+        run_threaded_primes(3, resultsfile);
+        run_threaded_primes(4, resultsfile);
+        run_threaded_primes(8, resultsfile);
     }
     fclose(resultsfile);
 }
 
-int run_threaded_primes(int num_threads) {
+void run_threaded_primes(int num_threads, FILE* resultsFile) {
+    printf("[MAIN] Running test with %d threads.\n", num_threads);
     int numPrimes=0;
     int rangeSize, status;
     pthread_t threads[num_threads];
@@ -93,8 +75,18 @@ int run_threaded_primes(int num_threads) {
 
     for(int i = 0; i < num_threads; i++)
         numPrimes += threadInfo[i].primesFound;
-
-    return (int) msec;
+    
+    // Print the info to the results file.
+    fprintf(resultsFile, "%d,%.0f", num_threads, msec);
+    for(int i = 0; i < num_threads; i++) {
+        start = threadInfo[i].startTime;
+        end = threadInfo[i].endTime;
+        msec = (end.tv_sec - start.tv_sec) * 1000;
+        msec += (end.tv_usec - start.tv_usec) / 1000; 
+        fprintf(resultsFile, ",%d,%.0f", threadInfo[i].primesFound, msec);
+        printf("[MAIN] Time taken by Thread %d: %6.0f milliseconds. Primes found: %d\n", i, msec, threadInfo[i].primesFound);
+    }
+    fprintf(resultsFile, "\n");
 }
 
 bool is_prime(int n)
@@ -105,9 +97,9 @@ bool is_prime(int n)
     if (n <= 1 || n % 2 == 0 || n % 3 == 0)
         return false;
 
-    for (int i = 5; i < n; i += 1)
+    for (int i = 5; i < n - 2; i += 6)
     {
-        if (n % i == 0)
+        if (n % i == 0 || n % (i+2) == 0)
             return false;
     }
 
@@ -118,6 +110,7 @@ void * count_primes_in_range(void *infoPtr) {
 
     // Convert thread info to struct
     struct thread_info *info = (struct thread_info*) infoPtr;
+    gettimeofday(&(info->startTime), NULL);
 
     // Check Primes
     for( int i = info->startNum; i <= info->endNum; i++)
@@ -125,9 +118,11 @@ void * count_primes_in_range(void *infoPtr) {
         if (is_prime(i))
         {
             info->primesFound += 1;
+            printf("[Thread %d] Prime found: %d; %d found by this thread.\n", info->threadNum, i, info->primesFound);
             info->primes[info->primesFound - 1] = i;
         }
     }
+    gettimeofday(&(info->endTime), NULL);
     
     // Exit Thread
     pthread_exit(NULL);
