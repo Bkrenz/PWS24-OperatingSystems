@@ -67,7 +67,7 @@
 
 \section{Data Collection}
 
-This experiment was run using a collection of threads to calculate the numbers in the range \([1723453000,1723454200]\).
+This experiment was run using a collection of threads to calculate the primality of numbers in the range \([1723453000,1723454200]\).
 As this gives us 1201 numbers to check for primality, we instead eliminate the first number in the range 1723453000 as it's an even number and not prime.
 This gives us 1200 numbers to check for primality, allowing us to split our range into sub-ranges of even size.
 Each run of the procedure utilized a different number of threads, from the set \(\{1,2,3,4,8\}\).
@@ -87,7 +87,7 @@ Each run of the procedure utilized a different number of threads, from the set \
 \end{center}
 
 The aggregated results above are the averages taken from 30 runs of each thread count. 
-Times are measured in milliseconds.
+Times are measured in milliseconds during testing, and converted to seconds in full report.
 In all cases, we can see that the Time Taken is approximately equivalent to the Longest Thread Time.
 This is due to the nature of thread joining, such that the \textit{Main} thread has to wait for all of its children threads to finish.
 Each thread was assigned a number range of equal size to check for prime numbers.
