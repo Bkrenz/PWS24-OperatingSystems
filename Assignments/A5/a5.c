@@ -14,7 +14,7 @@
 #define MIN_NUM 1723453000
 #define MAX_NUM 1723454200
 
-#define BUFFER_SIZE 2
+#define BUFFER_SIZE 1
 
 /**
  * @brief The information for a consumer thread.
@@ -63,15 +63,12 @@ pthread_mutex_t bufferMutex = PTHREAD_MUTEX_INITIALIZER;
 int main() {
 
     // Setup the output file
-    resultsFile = fopen("results_c.csv", "w");
+    resultsFile = fopen("results_a.csv", "w");
     primesFile = fopen("primes.txt", "w");
 
     // Run tests
     for (int i = 0; i < 30; i++) {
-        run_threaded_primes(2);
-        run_threaded_primes(3);
-        run_threaded_primes(4);
-        run_threaded_primes(8);
+        run_threaded_primes(1);
     }
 
     // Exit Successfully
@@ -149,7 +146,7 @@ void run_threaded_primes(int numConsumers) {
     double msec;
     msec = (end.tv_sec - start.tv_sec) * 1000;
     msec += (end.tv_usec - start.tv_usec) / 1000; 
-    fprintf(resultsFile, "%d, %f, %d\n", numConsumers, msec, primes);
+    fprintf(resultsFile, "%d,%f,%d\n", numConsumers, msec, primes);
     
     // Finish Test Run
     printf("[MAIN] Test has finished.\n\n");
@@ -170,7 +167,7 @@ bool check_prime(int n) {
     if (n <= 1 || n % 2 == 0 || n % 3 == 0)
         return false;
 
-    for (int i = 5; i * i < n ; i += 6)
+    for (int i = 5; i < n - 2 ; i += 6)
     {
         if (n % i == 0 || n % (i+2) == 0)
             return false;

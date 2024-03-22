@@ -4,6 +4,8 @@
 \author{G3 - Emily Bolles, Tanner Kirsch, Robert Krency}
 \date{}
 
+\usepackage{graphicx}
+
 \usepackage{setspace}
 \onehalfspacing
 
@@ -36,18 +38,80 @@
 
 \maketitle
 
+\section{Results}
 
+\subsection{Multiple Consumers}
+
+The chart in Figure 1 shows a comparison of the time taken to complete the task by the number of Consumer threads running.
+As expected, more consumers running concurrently finishes the task much more quickly.
+
+\begin{figure}[h]
+  \includegraphics[width=12cm]{Consumers.png}
+  \centering
+  \caption{Number of Consumer Threads}
+\end{figure}
+
+\subsection{Item Buffer Sizing}
+
+The chart in Figure 2 here shows a comparison between utilizing a 1-Item Buffer and a 2-Item Buffer for the Producer to fill.
+The 2-Item Buffer could theoretically protect against the Producer being unable to gain access to the Buffer for longer periods of time,
+due to the Consumers gaining the lock consecutively.
+In practice, there is little difference.
+This is likely a combination of small sample size and quickly performing tasks. 
+There could be improvements by separating the buffers such that threads would be able to access them independently. 
+
+\begin{figure}[h]
+  \includegraphics[width=12cm]{ItemBuffer.png}
+  \centering
+  \caption{1- vs 2- Item Buffer}
+\end{figure}
+
+\pagebreak
 \section{Primes Found}
 
 \begin{tabular}{c c c c c c}
+
 \VAR{ primes }
 \end{tabular}
 
-\section{Multiple Consumers Time Data}
+\section{A: Producer-Consumer}
+
+\begin{tabular}{ | r | c || r | c |}
+  \hline
+  \textbf{Test \#} & \textbf{Time (s)} & \textbf{Test \#} & \textbf{Time (s)} \\ \hline  
+\VAR{results_a}
+\end{tabular}
+
+\pagebreak
+\section{B: Multiple Consumers}
 
 \begin{tabular}{ | r | c c c c |}
-  \hline \\
+  \hline
   \textbf{Consumers} & 2 & 3 & 4 & 8 \\
-  {{consumers_table}}
+\VAR{results_b}
+\end{tabular}
+
+\pagebreak
+\section{C: Two-Item Buffer}
+
+\begin{tabular}{ | r | c c c c |}
+  \hline
+  \textbf{Consumers} & 2 & 3 & 4 & 8 \\
+\VAR{results_c}
+\end{tabular}
+
+\section{System Specs}
+
+The developed program was executed on a system with the following specs:
+
+\begin{center}
+\begin{tabular}{| r | l |}
+    \hline
+    CPU & AMD Ryzen 5 5600X, 6 Cores \\ \hline
+    Motherboard & Gigabyte X570 Aorus Ultra \\ \hline
+    Memory & 32GB DDR4 RAM 4800 MHz \\ \hline
+    GPU & AMD Radeon RX 6700XT \\ \hline
+\end{tabular}
+\end{center}
 
 \end{document}
